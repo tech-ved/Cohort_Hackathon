@@ -12,7 +12,7 @@ Technologies Used
 
 If you want to make this project, run the following command:
 
-git clone https://github.com/gobinda-das-dev/exoape-clone.git
+ https://github.com/tech-ved/Cohort_Hackathon
 
 Usage
 
