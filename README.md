@@ -8,18 +8,11 @@ Technologies Used
 . Framer Motion
 . Locomotive Scroll (for smooth scrolling)
 
- Installation
-
-If you want to make this project, run the following command:
-
- https://github.com/tech-ved/Cohort_Hackathon
-
 Usage
 
-1. Navigate to the cloned directory.
+1. Navigate to the project directory.
 2. Install dependencies using npm install.
 3. Start the development server using npm start.
-4. Open your web browser and visit http://localhost:3000 to view the cloned website.
 
 Contributing
 
