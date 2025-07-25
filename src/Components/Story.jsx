@@ -30,7 +30,7 @@ const Story = () => {
             <div className="flex justify-between items-end">
               <div className="flex gap-28 sm:gap-32">
                 <ul className="space-y-2 max-sm:hidden">
-                  {["Willem II Singel 8", "6041 HS, Roermond", "The Netherlands", "gobinda993720@gmail.com"].map(item => (
+                  {["Willem II Singel 8", "6041 HS, Roermond", "The Netherlands", "vedant993720@gmail.com"].map(item => (
                     <a
                       key={item}
                       className="block text-sm opacity-85"
