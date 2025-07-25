@@ -113,7 +113,7 @@ const Hero = () => {
                   })}
                 </div>
                 <div className="space-y-3">
-                  {["gobinda993720@gmail.com", "+43 478 910 2470"].map(item => {
+                  {["vedant993720@gmail.com", "+43 478 910 2470"].map(item => {
                     return (
                       <a key={item} className="block text-sm opacity-85 capitalize" href="#" > 
                       {item}
